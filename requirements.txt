@@ -1,0 +1,5 @@
+playwright
+pytest-playwright
+pytest
+pytest-html
+pytest-rerunfailures
