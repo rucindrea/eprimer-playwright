@@ -2,3 +2,6 @@
 .vscode
 .pytest_cache
 **/__pycache__
+results/
+screenshots/
+video/
