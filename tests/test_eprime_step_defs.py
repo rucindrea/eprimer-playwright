@@ -4,7 +4,7 @@ from playwright.sync_api import Page
 
 HOME = "https://www.exploratorytestingacademy.com/app/"
 
-scenarios('features/test_eprime.feature')
+scenarios('features/eprime.feature')
 
 @given("the eprime page is displayed")
 def eprime_home(page: Page):
