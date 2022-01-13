@@ -1,5 +1,7 @@
+pytest
 playwright
 pytest-playwright
-pytest
 pytest-html
 pytest-rerunfailures
+allure-pytest
+pytest-bdd
