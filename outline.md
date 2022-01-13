@@ -1,6 +1,7 @@
 # Pytest + Playwright
 
 ## Setup
+- App under test
 - IDE
 - check run & browser opens
 - Python / pytest / Playwright
