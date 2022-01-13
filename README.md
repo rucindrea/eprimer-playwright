@@ -18,7 +18,7 @@ source .venv/bin/activate
 .\venv\Scripts\activate
 
 # install dependencies
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 
 # install playwright browser binaries
 playwright install
